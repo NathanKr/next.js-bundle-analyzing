@@ -63,6 +63,12 @@ client html output of the analyzer
 ![client-html](./figs1/analyze-client-html.png)
 
 
+<h3>First load</h3>
+the following show 'First load JS' and 'First Load JS shared by all' info (it appears also for npm run build). next provides color green , yellow , red to indicate size issue (red is consider most problematics)
+
+![first-load](./figs1/first-load.png)
+
+
 <h2>Open issues</h2>
 <ul>
 <li>not clear why i got 'No bundles were parsed'</li>
