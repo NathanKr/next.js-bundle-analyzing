@@ -64,7 +64,9 @@ client html output of the analyzer
 
 
 <h3>First load</h3>
-the following show 'First load JS' and 'First Load JS shared by all' info (it appears also for npm run build). next provides color green , yellow , red to indicate size issue (red is consider most problematics)
+The following show 'First load JS' and 'First Load JS shared by all' info (it appears also for npm run build)
+
+<p>next provides color green , yellow , red to indicate size issue (red is consider most problematics)</p>
 
 ![first-load](./figs1/first-load.png)
 
