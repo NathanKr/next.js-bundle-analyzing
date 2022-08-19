@@ -47,13 +47,13 @@ npm run analyze
 <h3>text ouput</h3>
  these two html file are show also on the browser
 
- ![output-text](figs/npm-run-analyze-output-text.png)
+ ![output-text](./figs/npm-run-analyze-output-text.png)
 
  <h3>server html</h3>
 
-![server-html](figs/analyze-server-html.png)
+![server-html](./figs/analyze-server-html.png)
 
 
 <h3>client html</h3>
  
-![client-html](figs/analyze-client-html.png)
+![client-html](./figs/analyze-client-html.png)
