@@ -46,14 +46,14 @@ npm run analyze
 
 <h3>text ouput</h3>
 
- ![output](./figs/npm-run-analyze-output-text.png)
+ ![output-text](./figs/npm-run-analyze-output-text.png)
 
 
  <h3>server html</h3>
 
-![server](./figs/analyze-server-html.png)
+![server-html](./figs/analyze-server-html.png)
 
 
 <h3>client html</h3>
  
-![client](./figs/analyze-client-html.png)
+![client-html](./figs/analyze-client-html.png)
