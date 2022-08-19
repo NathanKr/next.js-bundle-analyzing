@@ -45,15 +45,19 @@ npm run analyze
 <h2>Analyze output</h2>
 
 <h3>text ouput</h3>
+text output of the analyzer
 
  ![output-text](./figs1/npm-run-analyze-output-text.png)
 
 
  <h3>server html</h3>
+server html output of the analyzer
 
 ![server-html](./figs1/analyze-server-html.png)
 
 
 <h3>client html</h3>
  
+client html output of the analyzer
+
 ![client-html](./figs1/analyze-client-html.png)
