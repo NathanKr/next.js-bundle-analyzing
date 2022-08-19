@@ -45,9 +45,7 @@ npm run analyze
 <h2>Analyze output</h2>
 
 <h3>text ouput</h3>
- these two html file are show also on the browser
 
- ![output](./figs/npm-run-analyze-output-text.png)
  ![output](./figs/npm-run-analyze-output-text.png)
 
 
