@@ -48,6 +48,8 @@ npm run analyze
  these two html file are show also on the browser
 
  ![output](./figs/npm-run-analyze-output-text.png)
+ ![output](./figs/npm-run-analyze-output-text.png)
+
 
  <h3>server html</h3>
 
