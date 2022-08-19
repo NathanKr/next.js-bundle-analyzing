@@ -61,3 +61,9 @@ server html output of the analyzer
 client html output of the analyzer
 
 ![client-html](./figs1/analyze-client-html.png)
+
+
+<h2>Open issues</h2>
+<ul>
+<li>not clear why i got 'No bundles were parsed'</li>
+</ul>
